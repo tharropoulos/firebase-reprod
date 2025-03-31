@@ -1,0 +1,19 @@
+{
+  "firebase": {
+    "projectId": "typesense-extension-testground",
+    "databaseURL": "http://localhost:8080"
+  },
+  "firestore-typesense-search": {
+    "location": "us-central1",
+    "firestore_database_region": "nam5",
+    "firestore_database": "(default)",
+    "firestore_collection_path": "books",
+    "firestore_collection_fields": "",
+    "typesense_hosts": "localhost",
+    "typesense_collection_name": "books",
+    "flatten_nested_documents": "false",
+    "log_typesense_inserts": "false",
+    "typesense_port": "8108",
+    "typesense_protocol": "http"
+  }
+}
