@@ -63,9 +63,6 @@ node_modules/
 .yarn-integrity
 
 # dotenv environment variables file
-extensions/*.env
-extensions/*.secret.*
-*.env
 .env
 
 # dataconnect generated files
